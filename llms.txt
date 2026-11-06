@@ -17,4 +17,4 @@ A free browser-only static HTML/Tailwind and simple JSX to Shopify OS 2.0 sectio
 
 ## Limitations
 - [https://xhq52465840.github.io/sectionstitch/about/](https://xhq52465840.github.io/sectionstitch/about/)
-- Contact: TODO, not configured. No active paid service.
+- No paid service, account, or contact inbox is configured.

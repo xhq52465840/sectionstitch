@@ -14,7 +14,9 @@
 - 约束：只做网页版、小成本、1-2 周、直接收钱、不做外包。
 
 ## 3. 现在已经做了什么
-- 工具首页：粘贴代码 → 生成 .liquid → 复制/下载。全在浏览器里跑，不调 AI、不上传代码、零运行成本。
+- 工具首页：粘贴或打开文件 → 生成 .liquid → 近似预览、改字段、复制/下载。全在浏览器里跑，不调 AI、不上传代码、零运行成本。字段修改会写回 schema 默认值。可增删排序重复 block。给出能否安装的结论和复制用的安装步骤。
+- 页面里那个 `$19` / `mailto:TODO` 入口已去掉。没有收款、没有联系邮箱，就不能假装有代做服务。
+- 可选「只存在这台浏览器」的草稿（默认关）。资源路径改成相对路径，GitHub Pages 子路径和以后的根域名都能用同一套文件。
 - 支持：文字/图片/链接/颜色变成 settings；简单 array.map 变成可重复 blocks；Tailwind 类编译成作用域 CSS（不依赖 Tailwind CDN）；FAQ 用原生 details/summary。
 - 8 篇 SEO 教程，目标关键词：lovable to shopify / convert react component to shopify section / tailwind to liquid / html to shopify section / v0 to shopify / how to add custom section shopify / shopify section schema / shopify FAQ liquid。
 - SEO 基础：canonical、sitemap.xml、robots.txt、llms.txt、OG、JSON-LD、内链。
@@ -23,7 +25,7 @@
 
 ## 4. 变现计划
 - 工具免费，靠搜索流量。
-- 复杂区块人工/半自动代做 $19/个、$39/3 个，一次性付款、不自动续费（入口目前是禁用占位，没有支付、没有联系邮箱）。
+- 复杂区块代做先不要上。页面上不再放收款或邮箱占位。真要收费，先有一个能收信的邮箱和一笔真实的手动付款，再开入口。
 - 后续可能：AdSense、或付费"高级转换"（需要接 AI，单次成本估计 < $0.5，未实测）。
 
 ## 5. 止损规则
@@ -38,8 +40,7 @@
 5. 获客渠道受限：r/lovable 禁止招揽服务，r/shopify 禁止推广/验证帖；Shopify Community 仅 Ask and Offer 版可推广且反对 AI 生成帖子。目前只能靠 SEO。
 6. 没有自定义域名（建议 sectionstitch.app，首年约 $8.75，未购买）；Cloudflare 部署 token 失效（9109）。
 7. 还没提交 Google Search Console（需要用户本人 Google 登录）。
-8. $19 代做和"不做外包"有张力：如果需求主要是复杂区块，就会变成手工活。
-9. 付费意愿未验证：还没有任何真实用户说愿意付 $19。
+8. 代做收费先不要做。没有收款和交付邮箱时，复杂区块会变成无偿外包。付费意愿也还没有真实用户验证。
 10. 目标用户（用 Lovable 建站后想迁 Shopify 的人）规模多大，没有数据。
 
 ## 7. 想请你的 AI 回答的问题
