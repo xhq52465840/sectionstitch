@@ -1,0 +1,20 @@
+# SectionStitch
+
+A free browser-only static HTML/Tailwind and simple JSX to Shopify OS 2.0 section converter. No signup or model API. Best effort; not full-store migration or Shopify certification.
+
+## Tool
+- [Converter](https://xhq52465840.github.io/sectionstitch/)
+
+## Guides
+- [Lovable to Shopify: move one section, not a whole app](https://xhq52465840.github.io/sectionstitch/guides/lovable-to-shopify/)
+- [Convert a React component to a Shopify section: a static-only workflow](https://xhq52465840.github.io/sectionstitch/guides/react-component-to-shopify-section/)
+- [Tailwind to Liquid: scoped CSS without a Tailwind CDN](https://xhq52465840.github.io/sectionstitch/guides/tailwind-to-liquid/)
+- [HTML to Shopify section: map copy, images, links and repeated cards](https://xhq52465840.github.io/sectionstitch/guides/html-to-shopify-section/)
+- [v0 to Shopify: when a Next.js section can become Liquid](https://xhq52465840.github.io/sectionstitch/guides/v0-to-shopify/)
+- [How to add a custom Liquid section to Shopify safely](https://xhq52465840.github.io/sectionstitch/guides/add-custom-section-shopify/)
+- [Shopify section schema: settings, blocks and presets explained](https://xhq52465840.github.io/sectionstitch/guides/shopify-section-schema/)
+- [An accessible Shopify FAQ section with native details and blocks](https://xhq52465840.github.io/sectionstitch/guides/accessible-faq-liquid/)
+
+## Limitations
+- [https://xhq52465840.github.io/sectionstitch/about/](https://xhq52465840.github.io/sectionstitch/about/)
+- Contact: TODO, not configured. No active paid service.
